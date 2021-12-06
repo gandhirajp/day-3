@@ -1,0 +1,33 @@
+var details=
+{
+    "basics" : [
+        {
+            "Name":"gandhiraj",
+            "Email":"gandhiraj007p@gmail.com",
+            "phone":8825793748,
+        }
+    ],
+    "Edutation" : [
+        {
+            "Max-degree":"Diploma",
+            "Current":"Full Stack Developer learning",
+        }
+    ],
+    "skils":[
+        {
+            "knowledge ":["javascript","HTML","CSS","Bootstrap","DOM"]
+        }
+    ],
+    "Language":[
+        {
+           "Lan": ["Tamil","English"]
+            
+        }
+    ],
+    "Intrest":[
+        {
+            "int":["Music","Director"]
+        }
+        
+    ]
+}
